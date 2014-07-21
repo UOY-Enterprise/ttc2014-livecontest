@@ -1,0 +1,8 @@
+Write here an algorithm (pseudo-code) describing the algorithm or provide what ever you 
+feel is more apropriate for that task
+
+Tentative algorithm parameters:
+- List of pairs ownFieldPlayers-Field
+- List of pairs enemyFieldPlayers-Field
+- enemyGoalKeeper-Field
+- ballOwnerPlayer

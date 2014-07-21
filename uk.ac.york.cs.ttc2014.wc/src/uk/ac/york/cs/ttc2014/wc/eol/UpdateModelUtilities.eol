@@ -1,0 +1,8 @@
+-- Function helpers which will help to retreive useful information
+-- from the input Pitch model for the attack/defend algorithms
+
+
+-- Function which retrieves a list with pairs EnemyFieldPlayers,Field
+function Pitch getEnemyFieldPlayers () : TODO {
+	
+}
